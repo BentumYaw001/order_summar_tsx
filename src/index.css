@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  min-width: 320px;
+}
+
+html {
+  background-color: hsl(225, 100%, 94%);
+}
